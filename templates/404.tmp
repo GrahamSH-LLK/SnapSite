@@ -1,2 +1,7 @@
 <h1> 404 - Page Not Found! </h1>
 <p> Sorry, we couldn't find that page! </p>
+<p> Here are some things you <em>can</em> do</p>
+<dl>
+<li> Go <a href="/">home</a></li>
+<li> Tell us about what you want on <a href="//forum.snap.berkeley.edu">the forum.</li>
+</dl>
